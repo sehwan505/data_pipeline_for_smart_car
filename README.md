@@ -4,3 +4,4 @@
 2022-01-29 cloudera manager install <br>
 2022-01-30 yum error trouble shouting(mirrorlist.txt)
 2022-02-01 hadoop install and env setting
+2022-02-04 spark install and env setting
